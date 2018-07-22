@@ -1,0 +1,23 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/dialogs/ScrollDialog.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "1.1.0",
+    "lodash": "4.17.10",
+    "react": "latest",
+    "react-dom": "latest",
+    "recompose": "0.27.1"
+  },
+  "name": "menu-prototype",
+  "version": "0.0.34",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
